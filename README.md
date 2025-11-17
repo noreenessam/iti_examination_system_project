@@ -291,13 +291,6 @@ Phase 6: Web Interface          ████████████████
 
 ### 🎉 Thank You for Visiting!
 
-
-<img src="https://media.giphy.com/media/26u4lOMA8JKSnL9Uk/giphy.gif" width="200"/>
-
-**Made with ❤️**
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=36BCF7&center=true&width=500&lines=Star+⭐+if+you+love+our+work!;Fork+🍴+to+contribute!;Follow+👀+for+updates!" alt="Typing SVG" />
-
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=footer)
 
 </div>
