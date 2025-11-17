@@ -291,8 +291,6 @@ Phase 6: Web Interface          ████████████████
 
 ### 🎉 Thank You for Visiting!
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=footer)
-
 </div>
 
 
